@@ -12,7 +12,7 @@ class Title extends Component {
         }
 
         return (
-            <h1 style={style}>Locate yourself 👀</h1>
+            <h1 style={style}>Locate me here 👀</h1>
         );
     }
 }
