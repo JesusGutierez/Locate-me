@@ -1,12 +1,14 @@
 import './App.css';
-import Title from './components/Title'
-import Map from './components/Map'
+import Presentation from './components/Presentation'
+import Information from './components/Information'
+import Footer from './components/Footer'
 
 function App() {
   return (
     <div className="App">
-      <Title/>
-      <Map/>
+      <Presentation/>
+      <Information/>
+      <Footer/>
     </div>
   );
 }
